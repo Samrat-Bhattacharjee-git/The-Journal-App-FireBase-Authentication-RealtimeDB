@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219692667128",
+    "project_id": "journalauthmain",
+    "storage_bucket": "journalauthmain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219692667128:android:782ad033ee6e810e52eb0d",
+        "android_client_info": {
+          "package_name": "com.example.journal_firebaseauth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCb3YBLdD06Lq0Me7bfT61VgGY5FSxj8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
